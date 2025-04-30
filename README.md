@@ -2,7 +2,7 @@
 
 This Jupyter notebook collection is the result of the collaboration between KU Leuven and the [University of Alicante](https://www.ua.es/), as part of the [Impact Centre of Competence in digitisation](https://www.digitisation.eu/).
 
-<img src="images/logos.png" width="60%">
+<img src="images/logos.png" width="40%">
 
 ## Authors
 

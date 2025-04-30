@@ -16,6 +16,8 @@ The digital collection [Wartime posters](https://kuleuven.limo.libis.be/discover
 ## Running the notebooks
 **To execute the notebook in Binder:**
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/HEAD)
+
 - Click the launch binder button above. Once the demo launches, click My_sample_notebook.ipynb in the file listing.
 - Run the notebook by selecting Cell > Run All. You call also click the play button to run the notebook cell by cell. You will the output of each cell.
 - You can edit the cells, and click on play to run and see the changes.

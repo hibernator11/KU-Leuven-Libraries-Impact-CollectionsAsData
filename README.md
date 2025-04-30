@@ -11,8 +11,6 @@ This Jupyter notebook collection is the result of the collaboration between KU L
 
 The digital collection [Wartime posters](https://kuleuven.limo.libis.be/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&collectionId=81411182030001488&lang=en) includes proclamations issued by the German General Government in Belgium during the World War I. It is published and maintained by [KU Leuven Libraries](https://bib.kuleuven.be/english).
 
-## Licence
-
 ## Running the notebooks
 **To execute the notebook in Binder:**
 

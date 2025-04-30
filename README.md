@@ -2,6 +2,8 @@
 
 This Jupyter notebook collection is the result of the collaboration between KU Leuven and the [University of Alicante](https://www.ua.es/), as part of the [Impact Centre of Competence in digitisation](https://www.digitisation.eu/).
 
+<img src="images/logos.png" width="60%">
+
 ## Authors
 
 - [Gustavo Candela](https://orcid.org/0000-0001-6122-0777), University of Alicante

@@ -4,8 +4,8 @@ This Jupyter notebook collection is the result of the collaboration between KU L
 
 ## Authors
 
-- Gustavo Candela, University of Alicante
-- Nele Gabriëls, KU Leuven
+- [Gustavo Candela](https://orcid.org/0000-0001-6122-0777), University of Alicante
+- [Nele Gabriëls](https://orcid.org/0000-0002-0325-3228), KU Leuven
 
 ## Datasets
 

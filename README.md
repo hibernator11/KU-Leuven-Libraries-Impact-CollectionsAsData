@@ -28,8 +28,7 @@ These examples provide an introduction to pandas and its application to two digi
 - [Downloading posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/extraction/wartime-posters-extraction.ipynb)
 
 **Transformation and enrichment**
-- Transformation to LOD
-- Enrichment
+- [Transformation to LOD](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-transformation.ipynb)
 
 **Reuse**
 - Example of reuse

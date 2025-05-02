@@ -16,9 +16,19 @@ The digital collection [Wartime posters](https://kuleuven.limo.libis.be/discover
 ## Framework
 
 **Exploration**
-- Data analysis with pandas
-- Exploring Wartime posters
-- Exploring postcards
+- [Data analysis with pandas](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
+- [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
+- [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
+
+**Extraction**
+- Download posters
+
+**Transformation and enrichment**
+- Transformation to LOD
+- Enrichment
+
+**Reuse**
+- Example of reuse
 
 ## Running the notebooks
 **To execute the notebook in Binder:**

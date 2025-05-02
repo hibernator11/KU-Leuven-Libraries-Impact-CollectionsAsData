@@ -1,0 +1,1572 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <https://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/record/IE4984785> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984785" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. ??.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984785/representation> .
+
+<https://example.org/record/IE4984790> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984790" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 01.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984790/representation> .
+
+<https://example.org/record/IE4984795> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984795" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 03.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984795/representation> .
+
+<https://example.org/record/IE4984800> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984800" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984800/representation> .
+
+<https://example.org/record/IE4984805> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984805" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 05.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984805/representation> .
+
+<https://example.org/record/IE4984810> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984810" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 06.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984810/representation> .
+
+<https://example.org/record/IE4984815> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984815" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 07.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984815/representation> .
+
+<https://example.org/record/IE4984820> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984820" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 08.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984820/representation> .
+
+<https://example.org/record/IE4984825> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984825" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 10.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984825/representation> .
+
+<https://example.org/record/IE4984830> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984830" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 17.05.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984830/representation> .
+
+<https://example.org/record/IE4984835> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984835" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 17.05.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984835/representation> .
+
+<https://example.org/record/IE4984840> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984840" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 18.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984840/representation> .
+
+<https://example.org/record/IE4984845> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984845" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 21.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984845/representation> .
+
+<https://example.org/record/IE4984850> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984850" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984850/representation> .
+
+<https://example.org/record/IE4984855> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984855" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 25.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984855/representation> .
+
+<https://example.org/record/IE4984860> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984860" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 30.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984860/representation> .
+
+<https://example.org/record/IE4984865> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984865" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 31.05.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984865/representation> .
+
+<https://example.org/record/IE4984870> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984870" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984870/representation> .
+
+<https://example.org/record/IE4984875> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984875" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 11.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984875/representation> .
+
+<https://example.org/record/IE4984880> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984880" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 11.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984880/representation> .
+
+<https://example.org/record/IE4984885> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984885" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 12.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984885/representation> .
+
+<https://example.org/record/IE4984899> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984899" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 12.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984899/representation> .
+
+<https://example.org/record/IE4984904> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984904" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 13.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984904/representation> .
+
+<https://example.org/record/IE4984909> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984909" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 14.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984909/representation> .
+
+<https://example.org/record/IE4984914> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984914" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 14.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984914/representation> .
+
+<https://example.org/record/IE4984919> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984919" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 14.06.1915. Mededeelingen [03] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984919/representation> .
+
+<https://example.org/record/IE4984924> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984924" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 15.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984924/representation> .
+
+<https://example.org/record/IE4984929> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984929" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 16.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984929/representation> .
+
+<https://example.org/record/IE4984934> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984934" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 16.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984934/representation> .
+
+<https://example.org/record/IE4984939> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984939" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 17.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984939/representation> .
+
+<https://example.org/record/IE4984944> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984944" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 17.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984944/representation> .
+
+<https://example.org/record/IE4984949> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984949" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 18.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984949/representation> .
+
+<https://example.org/record/IE4984954> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984954" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 18.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984954/representation> .
+
+<https://example.org/record/IE4984959> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984959" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 19.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984959/representation> .
+
+<https://example.org/record/IE4984964> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984964" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 19.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984964/representation> .
+
+<https://example.org/record/IE4984969> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984969" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 20.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984969/representation> .
+
+<https://example.org/record/IE4984974> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984974" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 21.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984974/representation> .
+
+<https://example.org/record/IE4984979> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984979" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 21.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984979/representation> .
+
+<https://example.org/record/IE4984984> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984984" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984984/representation> .
+
+<https://example.org/record/IE4984989> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984989" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984989/representation> .
+
+<https://example.org/record/IE4984994> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984994" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.06.1915. Mededeelingen [03] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984994/representation> .
+
+<https://example.org/record/IE4984999> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4984999" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4984999/representation> .
+
+<https://example.org/record/IE4985004> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985004" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985004/representation> .
+
+<https://example.org/record/IE4985009> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985009" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 24.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985009/representation> .
+
+<https://example.org/record/IE4985014> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985014" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 24.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985014/representation> .
+
+<https://example.org/record/IE4985019> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985019" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 25.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985019/representation> .
+
+<https://example.org/record/IE4985024> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985024" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 25.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985024/representation> .
+
+<https://example.org/record/IE4985029> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985029" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.06.1915. Mededeelingen [01] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985029/representation> .
+
+<https://example.org/record/IE4985034> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985034" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.06.1915. Mededeelingen [02] van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985034/representation> .
+
+<https://example.org/record/IE4985039> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985039" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 28.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985039/representation> .
+
+<https://example.org/record/IE4985044> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985044" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 29.06.1915. Mededeelingen van het Duitsche Generaal-Gouvernement [ondertekend door] Het Generaal-Gouvernement in België" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985044/representation> .
+
+<https://example.org/record/IE4985049> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "191?" ;
+    schema:identifier "IE4985049" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Antwerpen. 191?. Bekendmaking [ondertekend door] Keizerlijk Deutsch Meldeamt. Antwerpen-Vesting" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q12892> ;
+    schema:url <http://resolver.libis.be/IE4985049/representation> .
+
+<https://example.org/record/IE4985054> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1914" ;
+    schema:identifier "IE4985054" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 11.12.1914. Verordening [ondertekend door] de Gouverneur Generaal in België, Vrijheer von Bissing, Generaal der ruiterij" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q111901161> ;
+    schema:url <http://resolver.libis.be/IE4985054/representation> .
+
+<https://example.org/record/IE4985059> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1914" ;
+    schema:identifier "IE4985059" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.12.1914. Verordening [ondertekend door] de Gouverneur Generaal in België, Vrijheer von Bissing, Generaal der ruiterij" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q111901161> ;
+    schema:url <http://resolver.libis.be/IE4985059/representation> .
+
+<https://example.org/record/IE4985064> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985064" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.01.1915. Kennisgeving [ondertekend door] de Gouverneur Generaal in België, Vrijheer von Bissing, Generaaloverste" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q111901161> ;
+    schema:url <http://resolver.libis.be/IE4985064/representation> .
+
+<https://example.org/record/IE4985069> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985069" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 18.02.1915. Kennisgeving [ondertekend door] de Gouverneur Generaal in België, Vrijheer von Bissing, Generaaloverste" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985069/representation> .
+
+<https://example.org/record/IE4985074> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985074" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 02.04.1915. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985074/representation> .
+
+<https://example.org/record/IE4985088> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985088" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 02.04.1915. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985088/representation> .
+
+<https://example.org/record/IE4985093> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985093" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 16.04.1915. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985093/representation> .
+
+<https://example.org/record/IE4985098> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985098" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 06.05.1915. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985098/representation> .
+
+<https://example.org/record/IE4985103> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985103" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.05.1915. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985103/representation> .
+
+<https://example.org/record/IE4985108> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985108" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 21.06.1915. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985108/representation> .
+
+<https://example.org/record/IE4985113> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985113" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 24.09.1915. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985113/representation> .
+
+<https://example.org/record/IE4985118> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1915" ;
+    schema:identifier "IE4985118" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.10.1915. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985118/representation> .
+
+<https://example.org/record/IE4985123> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985123" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 17.01.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985123/representation> .
+
+<https://example.org/record/IE4985128> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985128" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 12.02.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985128/representation> .
+
+<https://example.org/record/IE4985133> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985133" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.02.1916. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985133/representation> .
+
+<https://example.org/record/IE4985138> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985138" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.03.1916. Bekendmaking [ondertekend door] das Gericht des General-Gouvernements" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985138/representation> .
+
+<https://example.org/record/IE4985143> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985143" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 01.04.1916. Uittreksel uit de Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985143/representation> .
+
+<https://example.org/record/IE4985148> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985148" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 01.04.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985148/representation> .
+
+<https://example.org/record/IE4985153> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985153" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 07.04.1916. Bekendmaking [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985153/representation> .
+
+<https://example.org/record/IE4985158> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985158" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 08.04.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985158/representation> .
+
+<https://example.org/record/IE4985163> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985163" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.04.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985163/representation> .
+
+<https://example.org/record/IE4985168> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985168" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 02.05.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985168/representation> .
+
+<https://example.org/record/IE4985173> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985173" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 15.05.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985173/representation> .
+
+<https://example.org/record/IE4985178> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985178" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.05.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985178/representation> .
+
+<https://example.org/record/IE4985183> a schema:CreativeWork ;
+    schema:author "von Föster signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985183" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Antwerpen. 29.05.1916. Belooning [ondertekend door] de Kommandant, von Föster, Oberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q12892> ;
+    schema:url <http://resolver.libis.be/IE4985183/representation> .
+
+<https://example.org/record/IE4985188> a schema:CreativeWork ;
+    schema:author "Franckenstein, Georg Albert 1878-1953 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985188" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brüssel. 20.06.1916. Kriegsfürsorge [subskribiert durch] Georg Freiherr von und zu Franckenstein, K. u. K. österr.-ungar. Kommisar" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985188/representation> .
+
+<https://example.org/record/IE4985193> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985193" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.06.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985193/representation> .
+
+<https://example.org/record/IE4985198> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985198" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 08.07.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985198/representation> .
+
+<https://example.org/record/IE4985203> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985203" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 19.07.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985203/representation> .
+
+<https://example.org/record/IE4985208> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985208" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.07.1916. Verordening [01] [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985208/representation> .
+
+<https://example.org/record/IE4985213> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985213" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.07.1916. Verordening [02] [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985213/representation> .
+
+<https://example.org/record/IE4985218> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985218" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 30.07.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985218/representation> .
+
+<https://example.org/record/IE4985223> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985223" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 27.07.1916. Waarschuwing [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985223/representation> .
+
+<https://example.org/record/IE4985228> a schema:CreativeWork ;
+    schema:author "Quadt signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985228" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Lier. 01.08.1916. Bekendmaking [ondertekend door] Freiherr Quadt, Majoor en Kommandant der sectie Zuid-Oost der Vesting Antwerpen" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985228/representation> .
+
+<https://example.org/record/IE4985233> a schema:CreativeWork ;
+    schema:author "von Schlabrendorff signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985233" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brasschaet. 03.08.1916. Bekendmaking [ondertekend door] von Schlabrendorff, Generalmajoor en Abschnittskommandeur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q12892> ;
+    schema:url <http://resolver.libis.be/IE4985233/representation> .
+
+<https://example.org/record/IE4985238> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985238" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 09.08.1916. Verordening [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985238/representation> .
+
+<https://example.org/record/IE4985243> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985243" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 14.08.1916. Toelichtingen [ondertekend door] das Militärisches Textil-Beschaffungsambt" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985243/representation> .
+
+<https://example.org/record/IE4985248> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985248" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.08.1916. Verordening [01] [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985248/representation> .
+
+<https://example.org/record/IE4985253> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985253" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.08.1916. Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985253/representation> .
+
+<https://example.org/record/IE4985258> a schema:CreativeWork ;
+    schema:author "von Lutz signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985258" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 24.08.1916. Bekendmaking [ondertekend door] der Verwaltungschef bei dem Generalgouverneur in Belgien, In Vertretung, Freiherr von Lutz" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985258/representation> .
+
+<https://example.org/record/IE4985263> a schema:CreativeWork ;
+    schema:author "von Bissing, Moritz 1844-1917 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985263" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.08.1916. Verordening [03] [ondertekend door] der General-Gouverneur in Belgien, Freiherr von Bissing, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985263/representation> .
+
+<https://example.org/record/IE4985268> a schema:CreativeWork ;
+    schema:author "von Hoiningen, Ernst signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985268" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 30.12.1916. Verordening [ondertekend door] der Generalgouverneur in Belgien, in Vertretung: Freiherr von Huene, General der Infanterie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985268/representation> .
+
+<https://example.org/record/IE4985273> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985273" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 26.07.1917. Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985273/representation> .
+
+<https://example.org/record/IE4985278> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985278" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Antwerpen. 30.07.1917. Bekendmaking [ondertekend door] der Präsident der Zivilverwaltung für die Provinz Antwerpen, Schramm, Senator" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985278/representation> .
+
+<https://example.org/record/IE4985283> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985283" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 31.07.1917. Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985283/representation> .
+
+<https://example.org/record/IE4985288> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985288" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 28.08.1917. Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985288/representation> .
+
+<https://example.org/record/IE4985293> a schema:CreativeWork ;
+    schema:author "Schaible, Alexander signer ; Haniel,Karl signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985293" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel - Namen. 29.09.1917. Verordening [ondertekend door] der Verwaltungschef für Flandern, Schaible und Der Verwaltungschef für Wallonien, Haniel" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985293/representation> .
+
+<https://example.org/record/IE4985298> a schema:CreativeWork ;
+    schema:author "von Köhler signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985298" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 01.10.1917. Toelichtingen [ondertekend door] der Chef der Abteilung für Handel und Gewerbe bei dem Generalgouverneur in Belgien, Dr. Von Köhler" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985298/representation> .
+
+<https://example.org/record/IE4985303> a schema:CreativeWork ;
+    schema:author "von Köhler signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985303" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 30.09.1917. Bekendmaking [ondertekend door] der Chef der Abteilung für Handel und Gewerbe bei dem Generalgouverneur in Belgien, Dr. Von Köhler" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985303/representation> .
+
+<https://example.org/record/IE4985308> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985308" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 22.11.1917. Verordening [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985308/representation> .
+
+<https://example.org/record/IE4985313> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1918" ;
+    schema:identifier "IE4985313" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.06.1918. Verordening [01] [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985313/representation> .
+
+<https://example.org/record/IE4985318> a schema:CreativeWork ;
+    schema:author "von Falkenhausen, Ludwig 1844-1936 signer" ;
+    schema:datePublished "1918" ;
+    schema:identifier "IE4985318" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 04.06.1918. Verordening [02] [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985318/representation> .
+
+<https://example.org/record/IE4985323> a schema:CreativeWork ;
+    schema:author "Falkenhausen, Ludwig von 1844-1936 signer" ;
+    schema:datePublished "1918" ;
+    schema:identifier "IE4985323" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Brussel. 23.07.1918. Bekendmaking [ondertekend door] der Generalgouverneur in Belgien, Freiherr von Falkenhausen, Generaloberst" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985323/representation> .
+
+<https://example.org/record/IE4985328> a schema:CreativeWork ;
+    schema:author "von Manteuffel author" ;
+    schema:datePublished "191?" ;
+    schema:identifier "IE4985328" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "191?. Authenieke kopij van een officieelen plakbrief [ondertekend] in opdrag von Manteuffel, Gouverneur van Oost-Vlaanderen" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985328/representation> .
+
+<https://example.org/record/IE4985333> a schema:CreativeWork ;
+    schema:author "von Manteuffel signer" ;
+    schema:datePublished "191?" ;
+    schema:identifier "IE4985333" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "191?. Copie authenique d'une affiche officielle [ondertekend] par ordre: von Manteuffel, Gouverneur de la Flandre Orientale" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985333/representation> .
+
+<https://example.org/record/IE4985338> a schema:CreativeWork ;
+    schema:author "van Pottelsberghe de la Potterie, A. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985338" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 07.05.1916. Aan het gemeentebestuur van Melle [ondertekend door] de Burgemeester, Baron van Pottelsberghe de la Potterie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985338/representation> .
+
+<https://example.org/record/IE4985343> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985343" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 17.05.1916. Verordening [ondertekend door] der Etappen-Kommandant, get. von Wick" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985343/representation> .
+
+<https://example.org/record/IE4985348> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985348" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 15.06.1916. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985348/representation> .
+
+<https://example.org/record/IE4985353> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985353" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 17.07.1916. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985353/representation> .
+
+<https://example.org/record/IE4985358> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht 1865-1939 author" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985358" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 23.07.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985358/representation> .
+
+<https://example.org/record/IE4985363> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985363" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 05.09.1916. Inlichting [ondertekend door] der Beauftragte des Kriegsministers bei der 4. Armee" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985363/representation> .
+
+<https://example.org/record/IE4985368> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985368" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 18.02.1917. Etappenkommandantuur Gent. Aan de Gemeente Merelbeke [ondertekend door] de Etappenkommandant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985368/representation> .
+
+<https://example.org/record/IE4985373> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985373" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 03.08.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985373/representation> .
+
+<https://example.org/record/IE4985378> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985378" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 06.08.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Wurttemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985378/representation> .
+
+<https://example.org/record/IE4985383> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985383" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 03.08.1916. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985383/representation> .
+
+<https://example.org/record/IE4985388> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht 1865-1939 author" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985388" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 08.08.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985388/representation> .
+
+<https://example.org/record/IE4985393> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985393" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 08.08.1916. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985393/representation> .
+
+<https://example.org/record/IE4985407> a schema:CreativeWork ;
+    schema:author "von Müller signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985407" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 12.08.1916. Verordening [ondertekend door] V. S. d. E. J. der Chef des Generalstabes, gez. v. Mueller, Oberstleutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985407/representation> .
+
+<https://example.org/record/IE4985412> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985412" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 29.08.1916. Mob. Etappen-Kommandantuur. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant, v. Wick, Oberstleutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985412/representation> .
+
+<https://example.org/record/IE4985417> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985417" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 30.08.1916. Mobime Etappen-Kommandantur. Bekendmaking [ondertekend door] de Etappen-Kommandant, gez. Von Wick, Oberstleutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985417/representation> .
+
+<https://example.org/record/IE4985422> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985422" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 26.08.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985422/representation> .
+
+<https://example.org/record/IE4985427> a schema:CreativeWork ;
+    schema:author "Wettstein, Kurt signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985427" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 30.08.1916. Mob. Etappen-Kommandantuur. 237 VIII der 4. Armee. - Abtl. Landwirtschaft. Aan alle Gemeenten [ondertekend door] de Etappen-Kammandant, A. B. Wettstein Leutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985427/representation> .
+
+<https://example.org/record/IE4985432> a schema:CreativeWork ;
+    schema:author "De Clercq, René 1877-1932 signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985432" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Sottegem. ??.09.1916.Ministerie van Wetenschappen en Kunsten. Leerplicht schooljaar 1916-1917. Bericht aan de gezinshoofden [ondertekend door] de Kantonnale Opziener, De Clercq, R." ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985432/representation> .
+
+<https://example.org/record/IE4985437> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985437" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 06.09.1916. Mob. Etappen-Kommandantuur. Aan de Gemeente Meirelbeke [ondertekend door] de Etappen-Kommandant, get. Von Wick" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985437/representation> .
+
+<https://example.org/record/IE4985442> a schema:CreativeWork ;
+    schema:author "Wettstein, Kurt signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985442" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 06.09.1916. Aan de Gemeente Meirelbeke [ondertekend door] de Etappen-Kammandant [sic], A. B. Wettstein Leutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985442/representation> .
+
+<https://example.org/record/IE4985447> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985447" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 20.09.1916. Mob. Etappen-Kommandantuur. 237 VIII der 4. Armee. Bekendmaking [ondertekend door] de Etappen-Kommandantuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985447/representation> .
+
+<https://example.org/record/IE4985452> a schema:CreativeWork ;
+    schema:author "Wettstein, Kurt signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985452" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 21.09.1916. Mob. Etappen-Kommandantuur. 237 VIII der 4. Armee. - Landwirt Betriebstelle. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant, A. B. Wettstein Leutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985452/representation> .
+
+<https://example.org/record/IE4985457> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985457" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 00.10.1916. Mob. Etappen-Kommandantuur 237/8 A. K. [ondertekend door] de Etappen-Kommandant, (get.) Von Wick" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985457/representation> .
+
+<https://example.org/record/IE4985462> a schema:CreativeWork ;
+    schema:author "Hebbelynck, Joseph signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985462" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 29.10.1916. Gemeente Meirelbeke Kennisgeving Controlvergadering [ondertekend door] de Burgemeester, Jos. Hebbelynck" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985462/representation> .
+
+<https://example.org/record/IE4985467> a schema:CreativeWork ;
+    schema:author "De Mey, P. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985467" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "[Meirelbeke]. ??. 11.1916. Belangrijk bericht [ondertekend door] de Adjkt Politiekommissaris, P. De Mey" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985467/representation> .
+
+<https://example.org/record/IE4985472> a schema:CreativeWork ;
+    schema:author "Hebbelynck, Joseph author" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985472" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 09.11.1916. Gemeente Meirelbeke Belangrijk bericht [ondertekend door] de Burgemeester, Jos. Hebbelynck" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985472/representation> .
+
+<https://example.org/record/IE4985477> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985477" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 11.11.1916. Mob. Etappen-Kommandantuur. 237, VIII der 4. Armee. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant, (get.) von Wick" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985477/representation> .
+
+<https://example.org/record/IE4985482> a schema:CreativeWork ;
+    schema:author "Hebbelynck, Joseph signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985482" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 16.11.1916. Bericht [ondertekend door] Jos. Hebbelynck" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985482/representation> .
+
+<https://example.org/record/IE4985487> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985487" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 17.11.1916. Mob. Etappen-Kommandantuur. Landwirtschaftl. Betriebsstelle. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandantur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985487/representation> .
+
+<https://example.org/record/IE4985492> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985492" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 21.11.1916. Mob. Etappen-Kommandantuur. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandantuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985492/representation> .
+
+<https://example.org/record/IE4985497> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985497" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 23.11.1916. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985497/representation> .
+
+<https://example.org/record/IE4985502> a schema:CreativeWork ;
+    schema:author "Wendling, Willy signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985502" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 24.11.1916. Mob. Etappen-Kommandantuur. 237 - 8. A. K. - der 4. Armee. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant, A. B. (get.) Wendling.  Leutnant & Adjutant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985502/representation> .
+
+<https://example.org/record/IE4985507> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985507" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 24.11.1916. Mob. Etappen-Kommandantuur. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985507/representation> .
+
+<https://example.org/record/IE4985512> a schema:CreativeWork ;
+    schema:author "Wettstein, Kurt signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985512" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 01.12.1916. Mob. Etappen-Kommandantuur, 237, VIII Landwirtschaftliche Betriebstelle. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandant, A. B. (get.) Wettstein. Leutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985512/representation> .
+
+<https://example.org/record/IE4985517> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985517" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 07.12.1916. Gemeente Meirelbeke Belangrijk bericht [ondertekend door] het Gemeenteoverheid" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985517/representation> .
+
+<https://example.org/record/IE4985522> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985522" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 11.12.1916. Mobile EtappenKommandantuur, 237, d. 4 Armee. Aan de Gemeente Meirelbeke [ondertekend door] de Etappenkommandant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985522/representation> .
+
+<https://example.org/record/IE4985527> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985527" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 11.12.1916. Mob. Etappen-Kommandantuur, 237 - 8. A. K. - der 4. Armee. Aan alle Gemeenten [ondertekend door] de Etappenkommandant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985527/representation> .
+
+<https://example.org/record/IE4985532> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985532" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 13.12.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985532/representation> .
+
+<https://example.org/record/IE4985537> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985537" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 14.12.1916. Mob. Etappen-Kommandantuur 237 - 8. A. K. - der 4. Armee. Eilt Aan alle Gemeenten [ondertekend door] de Etappen-Kommandantuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985537/representation> .
+
+<https://example.org/record/IE4985542> a schema:CreativeWork ;
+    schema:author "Falke signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985542" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 15.12.1916. Gerstenzentrale Gent Korte Meire, 22 [ondertekend door] de Voorzitter, get. Falke, Hauptmann" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985542/representation> .
+
+<https://example.org/record/IE4985547> a schema:CreativeWork ;
+    schema:author "von Wick, Georg signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985547" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 17.12.1916. Bekendmaking [ondertekend door] de Etappen-Kommandant, Von Wick, Oberstleutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985547/representation> .
+
+<https://example.org/record/IE4985552> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985552" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 21.12.1916. Gemeente Meirelbeke Belangrijk bericht [ondertekend door] het Gemeenteoverheid" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985552/representation> .
+
+<https://example.org/record/IE4985557> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985557" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 23.12.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Würtemberg [sic]" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985557/representation> .
+
+<https://example.org/record/IE4985562> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985562" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 28.12.1916. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985562/representation> .
+
+<https://example.org/record/IE4985567> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1916" ;
+    schema:identifier "IE4985567" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 30.12.1916. Bijvoegsel tot de verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985567/representation> .
+
+<https://example.org/record/IE4985572> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985572" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 01.01.1917. Verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985572/representation> .
+
+<https://example.org/record/IE4985577> a schema:CreativeWork ;
+    schema:author "von Unger, Wolfgang. signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985577" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 01.01.1917. Verordening [ondertekend door] der Etappeninspekteur, von Unger, General der Kavallerie" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985577/representation> .
+
+<https://example.org/record/IE4985582> a schema:CreativeWork ;
+    schema:author "von Württemberg, Albrecht signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985582" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "A. H. Q. 04.01.1917. Wijziging der verordening [ondertekend door] der Oberbefehlshaber, Herzog Albrecht von Württemberg" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985582/representation> .
+
+<https://example.org/record/IE4985587> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985587" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 08.01.1917. Bericht [ondertekend door] de Gemeenteoverheid" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985587/representation> .
+
+<https://example.org/record/IE4985592> a schema:CreativeWork ;
+    schema:author "von Wick, Georg author" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985592" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 10.01.1917. Verordening [ondertekend door] der Etappen-Kommandant, von Wick, Oberstleutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985592/representation> .
+
+<https://example.org/record/IE4985597> a schema:CreativeWork ;
+    schema:author "Hebbelynck, Joseph signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985597" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 10.11.1917. Bericht [ondertekend door] de Burgemeester, Jos. Hebbelynck" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985597/representation> .
+
+<https://example.org/record/IE4985602> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985602" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 23.01.1917. Mob. Etappen-Kommandantuur 237/VIII d. 4 A. Aan alle Gemeenten [ondertekend door] de Etappen-Kommanduur. Werbebuero" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985602/representation> .
+
+<https://example.org/record/IE4985607> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985607" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 26.01.1917. Bericht [ondertekend door] de Gemeenteoverheid" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985607/representation> .
+
+<https://example.org/record/IE4985612> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985612" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 27.01.1917. Belangrijk bericht [ondertekend door] de Gemeenteoverheid" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985612/representation> .
+
+<https://example.org/record/IE4985617> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985617" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 28.01.1917. Mob. Etappen-Kommandantuur 237/VIII d. 4. A. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandantuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985617/representation> .
+
+<https://example.org/record/IE4985622> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985622" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 28.01.1917. Mob. Etappen-Kommandantuur. Aan alle Gemeenten [ondertekend door] de Etappen-Kommandantuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985622/representation> .
+
+<https://example.org/record/IE4985627> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985627" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 29.01.1917. Uitbreiding der verordening [ondertekend door] der Etappeninspekteur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985627/representation> .
+
+<https://example.org/record/IE4985632> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985632" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. ??.02.1917. Stad Gent" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985632/representation> .
+
+<https://example.org/record/IE4985646> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985646" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 07.02.1917. Gemeente Meireleke [sic] Belangrijk bericht [ondertekend door] het gemeentebestuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985646/representation> .
+
+<https://example.org/record/IE4985651> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985651" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 08.02.1917. Gemeente Meireleke [sic] Belangrijk bericht [ondertekend door] het gemeentebestuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985651/representation> .
+
+<https://example.org/record/IE4985656> a schema:CreativeWork ;
+    schema:author "Wettstein, Kurt signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985656" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 10.02.1917. Aan de Gemeente Meirelbeke [ondertekend door] de Etappen-Kommandant, A. B. (get.) Wettstein Leutnant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985656/representation> .
+
+<https://example.org/record/IE4985661> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985661" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Meirelbeke. 20.02.1917. Gemeente Meirelbeke Vleeschbevoorrading Bericht [ondertekend door] het gemeentebestuur" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985661/representation> .
+
+<https://example.org/record/IE4985666> a schema:CreativeWork ;
+    schema:author "NaN"^^xsd:double ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985666" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "Gent. 05.03.1917. Mob. Etappenkommandantur Gent. Landwirtschaftl. Abtl. Aan de Gemeente Merelbeke [ondertekend door] de Etappenkommandant" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:url <http://resolver.libis.be/IE4985666/representation> .
+
+<https://example.org/record/IE4985671> a schema:CreativeWork ;
+    schema:author "Heitz signer" ;
+    schema:datePublished "1917" ;
+    schema:identifier "IE4985671" ;
+    schema:isPartOf <https://example.org/dataset/wartime-posters> ;
+    schema:name "E. H. O. 14.04.1917. Bekendmaking [ondertekend door] der Militärische Polizeichef, Heitz, Major" ;
+    schema:sourceOrganization "KU Leuven" ;
+    schema:spatial <https://example.org/place/Q1296> ;
+    schema:url <http://resolver.libis.be/IE4985671/representation> .
+
+<https://example.org/place/Q1296> a schema:Place ;
+    owl:sameAs wd:Q1296 ;
+    schema:name "Gent" .
+
+<https://example.org/place/Q111901161> a schema:Place ;
+    owl:sameAs wd:Q111901161 ;
+    schema:name "Brussel" .
+
+<https://example.org/place/Q12892> a schema:Place ;
+    owl:sameAs wd:Q12892 ;
+    schema:name "Antwerpen" .
+
+<https://example.org/dataset/wartime-posters> a schema:Dataset ;
+    dc:title "Wartime posters" ;
+    schema:dateCreated "2025-05-02" ;
+    schema:description "Wartime posters with proclamations issued by the German General Government in Belgium during the World War I." ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Wartime posters" ;
+    schema:url <https://kuleuven.limo.libis.be/> .
+

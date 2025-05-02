@@ -17,8 +17,8 @@ The digital collection [Wartime posters](https://kuleuven.limo.libis.be/discover
 
 **Exploration**
 - [Data analysis with pandas](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
-- [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
-- [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
+- [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/wartime-posters-exploration.ipynb)
+- [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/postcards-exploration.ipynb)
 
 **Extraction**
 - Download posters

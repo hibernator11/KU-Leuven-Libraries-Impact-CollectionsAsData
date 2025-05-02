@@ -15,7 +15,11 @@ The digital collection [Wartime posters](https://kuleuven.limo.libis.be/discover
 
 ## Framework
 
+The following subsections describe the framework applied to reuse the digital collections provided by KU Leuven.
+
 **Exploration**
+These examples provide an introduction to pandas and its application to two digital collections: Wartime posters and postcards.
+
 - [Data analysis with pandas](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
 - [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/wartime-posters-exploration.ipynb)
 - [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/postcards-exploration.ipynb)

@@ -20,12 +20,12 @@ The following subsections describe the framework applied to reuse the digital co
 **Exploration**
 These examples provide an introduction to pandas and its application to two digital collections: Wartime posters and postcards.
 
-- [Data analysis with pandas](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/pandas-introduction.ipynb)
-- [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/wartime-posters-exploration.ipynb)
-- [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/postcards-exploration.ipynb)
+- [Data analysis with pandas](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/exploration/pandas-introduction.ipynb)
+- [Exploring Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/exploration/wartime-posters-exploration.ipynb)
+- [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/exploration/postcards-exploration.ipynb)
 
-**Extraction**
-- Download posters
+**Extraction** This example shows how to extract and download the posters
+- [Downloading posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/extraction/wartime-posters-extraction.ipynb)
 
 **Transformation and enrichment**
 - Transformation to LOD

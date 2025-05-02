@@ -31,7 +31,7 @@ These examples provide an introduction to pandas and its application to two digi
 - [Transformation to LOD - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-transformation-LOD.ipynb)
 
 **Reuse**
-- Example of reuse
+- [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb)
 
 ## Running the notebooks
 **To execute the notebook in Binder:**

@@ -47,6 +47,8 @@ WHERE {
 }
 ```
 
+<img src="images/map.png" widht="40%">
+
 ## Running the notebooks
 **To execute the notebook in Binder:**
 

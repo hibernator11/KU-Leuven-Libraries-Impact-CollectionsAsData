@@ -35,6 +35,18 @@ These examples provide an introduction to pandas and its application to two digi
 **Reuse**
 - [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb)
 
+- Thanks to the enrichment with external repositories such as Wikidata, we can create mpa visualisations using the [Wikidata SPARQL endpoint](https://w.wiki/Dyey):
+
+```
+#defaultView:Map
+select *
+WHERE { 
+    VALUES ?place {wd:Q1296 wd:Q111901161 wd:Q12892 }
+    ?place wdt:P625 ?coord .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+
 ## Running the notebooks
 **To execute the notebook in Binder:**
 

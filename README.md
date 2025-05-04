@@ -27,14 +27,14 @@ These examples provide an introduction to pandas and its application to two digi
 - [Exploring postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/exploration/postcards-exploration.ipynb)
 
 **Extraction** This example shows how to extract and download the posters
-- [Downloading Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/extraction/wartime-posters-extraction.ipynb)
+- [Downloading Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/extraction/wartime-posters-extraction.ipynb) This example shows how to download the posters as images
 
 **Transformation and enrichment**
-- [Transformation to LOD - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-transformation-LOD.ipynb)
+- [Transformation to LOD - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-transformation-LOD.ipynb) This example shows how to transform the Wartime posters provided as a CSV file to Linked Open Data 
 - [Transformation - refinement - postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/postcards-transformation-refinement.ipynb) Imagine we want to extract the location included in the uniform title. This example shows how to extract and load data from existing colums and datasets.
 
 **Reuse**
-- [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb)
+- [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb) This example shows how to use SPARQL to analyse the data generated
 
 - Thanks to the enrichment with external repositories such as Wikidata, we can create mpa visualisations using the [Wikidata SPARQL endpoint](https://w.wiki/Dyey):
 

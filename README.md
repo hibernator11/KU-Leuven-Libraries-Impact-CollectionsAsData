@@ -66,6 +66,14 @@ WHERE {
 
 Please, note that the datasets used in this project have separate licences.
 
+## Task
+
+Once you have run the examples provided in this project, follow these steps:
+
+- Create a Jupyter notebook from scracth. You can copy one of the examples provided and update it.
+- You have seen how to transform the Wartime posters to LOD. Could you adapt the Wartime posters code to transform the postcards to LOD? You can copy and adapt the code provided.
+- What things could be improved? 
+
 ## References
 
 - Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, Journal of Open Humanities Data, 11(1), p. 7. Available at: https://doi.org/10.5334/johd.261.

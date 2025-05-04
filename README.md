@@ -19,7 +19,7 @@ The following datasets published and maintained by [KU Leuven Libraries](https:/
 
 The following subsections describe the framework applied to reuse the digital collections provided by KU Leuven.
 
-<img src="images/workflow.png" width="40%">
+<img src="images/workflow.png" width="60%">
 
 **Exploration**
 These examples provide an introduction to pandas and its application to two digital collections: Wartime posters and postcards.

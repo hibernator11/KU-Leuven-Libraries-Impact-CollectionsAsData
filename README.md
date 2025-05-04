@@ -31,7 +31,7 @@ These examples provide an introduction to pandas and its application to two digi
 
 **Transformation and enrichment**
 - [Transformation to LOD - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-transformation-LOD.ipynb)
-- [Transformation - refinement - postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/postcards-transformation-refinement.ipynb)
+- [Transformation - refinement - postcards](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/postcards-transformation-refinement.ipynb) Imagine we want to extract the location included in the uniform title. This example shows how to extract and load data from existing colums and datasets.
 
 **Reuse**
 - [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb)

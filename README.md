@@ -74,7 +74,7 @@ Please, note that the datasets used in this project have separate licences.
 
 Once you have run the examples provided in this project, follow these steps:
 
-- Create a Jupyter notebook from scracth. You can copy one of the examples provided and update it.
+- Create a Jupyter notebook from scratch. You can copy one of the examples provided and update it.
 - You have seen how to transform the Wartime posters to LOD. Could you adapt the Wartime posters code to transform the postcards to LOD? You can copy and adapt the code provided.
 - What things could be improved? 
 

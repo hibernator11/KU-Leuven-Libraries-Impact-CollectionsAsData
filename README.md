@@ -9,6 +9,10 @@ This Jupyter notebook collection is the result of the collaboration between KU L
 - [Gustavo Candela](https://orcid.org/0000-0001-6122-0777), University of Alicante
 - [Nele Gabriëls](https://orcid.org/0000-0002-0325-3228), KU Leuven
 
+## Suggested citation
+
+- Candela, G., & Gabriels, N. (2025). hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData: First version (1.0). Zenodo. https://doi.org/10.5281/zenodo.15337181
+
 ## Datasets
 The following datasets published and maintained by [KU Leuven Libraries](https://bib.kuleuven.be/english) will be used in this workshop:
 
@@ -70,7 +74,7 @@ Please, note that the datasets used in this project have separate licences.
 
 Once you have run the examples provided in this project, follow these steps:
 
-- Create a Jupyter notebook from scracth. You can copy one of the examples provided and update it.
+- Create a Jupyter notebook from scratch. You can copy one of the examples provided and update it.
 - You have seen how to transform the Wartime posters to LOD. Could you adapt the Wartime posters code to transform the postcards to LOD? You can copy and adapt the code provided.
 - What things could be improved? 
 

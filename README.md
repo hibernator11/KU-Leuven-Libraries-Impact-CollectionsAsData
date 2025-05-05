@@ -46,11 +46,10 @@ These examples provide an introduction to pandas and its application to two digi
 
 ```
 #defaultView:Map
-select *
+SELECT *
 WHERE { 
     VALUES ?place {wd:Q1296 wd:Q111901161 wd:Q12892 }
     ?place wdt:P625 ?coord .
-    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
 

@@ -42,7 +42,7 @@ These examples provide an introduction to pandas and its application to two digi
 **Reuse**
 - [Reuse - Wartime posters](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/transformation/wartime-posters-reuse.ipynb) This example shows how to use SPARQL to analyse the data generated
 
-- Thanks to the enrichment with external repositories such as Wikidata, we can create mpa visualisations using the [Wikidata SPARQL endpoint](https://w.wiki/Dyey):
+- Thanks to the enrichment with external repositories such as Wikidata, we can create map visualisations using the [Wikidata SPARQL endpoint](https://w.wiki/Dyey):
 
 ```
 #defaultView:Map
